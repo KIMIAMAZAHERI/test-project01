@@ -1,0 +1,30 @@
+h1{
+    color:#dbbd10;
+    font-size:  40px;
+    font-style: italic;
+    text-align: center;
+    background-color: #e71ba3;
+}
+div{
+    text-align: center;
+}
+div1{
+    font-size: 20px;
+}
+div2 {
+    font-size: 30px;
+}
+section {
+    font-size: 30px;
+}
+body{
+    background-image: url(../images/backgrundbody.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+img {
+    box-shadow: 10px 10px 20px cadetblue;
+}
